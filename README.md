@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, sou Gustavo Marialva</h1>
-<h3 align="center">Estudante de Sistemas de Informação e Desenvolvedor Front-End Jr.</h3>
+<h3 align="center">Desenvolvedor Front-End Jr.</h3>
 
 - 📚 Sou estudande de Sistemas de Informação
 - 💞️ Busco oportunidades como front-end que possam me desenvolver cada vez mais
